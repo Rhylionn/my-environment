@@ -1,40 +1,42 @@
-### My current dev environment
+### 💻 My current dev environment
 
-## Tools
+## 🔧 Tools
 
-- Visual Studio Code
-- HeidiSQL
-- Windows Terminal
+1. Visual Studio Code
+2. Windows Terminal
+3. HeidiSQL
 
-### Visual Studio Code
+---
 
-#### Used extensions / theme
+## Visual Studio Code
 
-- [Material Theme Ocean][material]
-- [Material Icon Theme][materialIconTheme]
-- [Prettier][prettier]
-- [VS Code Counter][svcc]
-- [WakaTime][wakatime]
+### Used extensions / theme
 
-- [Python][python]
-- [C/C++][c-cpp]
-- [LaTeX Workshop][latexworkshop]
+1. [Material Theme Ocean][material]
+2. [Material Icon Theme][materialIconTheme]
+3. [Prettier][prettier]
+4. [VS Code Counter][vscc]
+5. [WakaTime][wakatime]
 
-#### Font
+6. [Python][python]
+7. [C/C++][c-cpp]
+8. [LaTeX Workshop][latexworkshop]
 
-I'am using Firacode font with liguatures enabled.
+### Font
 
-[Github repo][https://github.com/tonsky/FiraCode]
-[Install instructions for VS Code][https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions]
+I'am using **Firacode** font with liguatures enabled.
 
-##### PHP & MySQL
+[Github repo][firacoderepo]
+[Install instructions for VS Code][firacodeinstructions]
+
+#### PHP & MySQL
 
 Running latest version of PHP and MySQL using command line and HeidiSQL.
 
-##### C/C++
+#### C/C++
 
 MiniGW compiler installation required.
-[MiniGW][http://mingw-w64.org/]
+[MiniGW][minigw]
 
 
 [material]: https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
@@ -45,3 +47,7 @@ MiniGW compiler installation required.
 [vscc]: https://marketplace.visualstudio.com/items?itemName=uctakeoff.vscode-counter
 [wakatime]: https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime
 [python]: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+[latexworkshop]: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
+[firacoderepo]: https://github.com/tonsky/FiraCode
+[firacodeinstructions]: https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions
+[minigw]: http://mingw-w64.org/

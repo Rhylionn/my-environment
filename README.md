@@ -26,8 +26,8 @@
 
 I'am using **Firacode** font with liguatures enabled.
 
-[Github repo][firacoderepo]
-[Install instructions for VS Code][firacodeinstructions]
+- [Github repo][firacoderepo]
+- [Install instructions for VS Code][firacodeinstructions]
 
 #### PHP & MySQL
 
